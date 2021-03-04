@@ -57,4 +57,4 @@ How to use vim productively for frontend developing
 
 #### Comment folding (as VS Code region/endregion)
 
-#### ESLint integration 
+### ESLint integration 
