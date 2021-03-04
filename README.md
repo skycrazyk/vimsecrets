@@ -37,6 +37,10 @@ How to use vim productively for frontend developing
 
 ### Tabs and panels
 
+#### Creating Tabs and panels
+
+#### Moving between Tabs and panels
+
 ### Fuzzy finder
 
 ### File explorer
@@ -46,3 +50,9 @@ How to use vim productively for frontend developing
 ### Rename variables across files (as VS Code F2 remaming)
 
 ### Find all references
+
+### Code folding
+
+#### Base code folding
+
+#### Comment folding (as VS Code region/endregion)
